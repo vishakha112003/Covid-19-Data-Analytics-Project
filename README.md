@@ -21,8 +21,15 @@ Data cleaning involved:
 The cleaned data was then saved into a new file.
 ## Exploratory Data Analysis
 First, the preliminary examination of data was done to understand what the data says. Then some new features like month, week, weekday etc. were created using the data column for use in the analysis.
-Data was visualized through matplotlib and seaborn to understand the trends and gather insights from the data at the end.
-![]/images/EDa.png
+Data was visualized through matplotlib and seaborn to understand the trends and gather and write insights from the data at the end.
+
+!["Here's an image showing few of the charts"](/images/EDa.png)
+
+## Power BI Dashboard
+At the end, a dashboard was created in power bi to understand and visualize the data better.
+!["Here's an image showing few of the charts"](/images/dashboard.png)
+
+
 
 
 
