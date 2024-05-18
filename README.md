@@ -22,6 +22,7 @@ The cleaned data was then saved into a new file.
 ## Exploratory Data Analysis
 First, the preliminary examination of data was done to understand what the data says. Then some new features like month, week, weekday etc. were created using the data column for use in the analysis.
 Data was visualized through matplotlib and seaborn to understand the trends and gather insights from the data at the end.
+![]/images/EDa.png
 
 
 
